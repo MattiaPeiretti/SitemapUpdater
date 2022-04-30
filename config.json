@@ -1,0 +1,6 @@
+{
+    "XML_DATA_URI": "https://watisstikstof.nl/backend/xml-sitemap",
+    "XML_DATA_OBJ_KEY": "XML",
+    "SITEMAP_FILE_NAME": "sitemap.xml",
+    "SITEMAP_FILE_LOCATION": "./"
+}
